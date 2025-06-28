@@ -130,6 +130,7 @@ This analysis demonstrates real-world applications in:
 ```
 ├── multiple_regression_lab.ipynb    # Main lab notebook
 ├── README.md                        # This documentation
+└── requirements.txt                 # Dependencies 
 ```
 
 ---
