@@ -149,9 +149,8 @@ This analysis demonstrates real-world applications in:
 ## How to Run
 
 1. Clone or download the lab files
-2. Install required dependencies: `pip install scikit-learn pandas numpy matplotlib seaborn`
+2. Install required dependencies: `pip install scikit-learn pandas numpy matplotlib seaborn` or run requirements.txt
 3. Open `multiple_regression_lab.ipynb` in Jupyter Notebook
-4. Add your name and course information in the header
 5. Run all cells to execute the complete analysis
 
 ---
